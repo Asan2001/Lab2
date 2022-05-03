@@ -31,7 +31,7 @@ Operations supported:
 
 2) Create virtual env
     ```sh
-    python3 -m venv env
+    python -m venv env
     ```
 
 3) Activate the environment

@@ -52,7 +52,7 @@ Operations supported:
 4) Download the dependencies:
 
    ```sh
-   pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 5) Run the application

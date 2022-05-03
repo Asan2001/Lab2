@@ -35,7 +35,7 @@ Operations supported:
 1) Clone the repo
 
     ```sh
-    git clone https://github.com/Nicolas1st/flask-multistorage-api
+    git clone https://github.com/Asan2001/Lab2
     ```
 
 2) Create virtual env

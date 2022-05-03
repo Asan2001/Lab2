@@ -6,15 +6,6 @@
 
   Contains the app's api
 
-- [persistence](./persistence)
-
-  Contains model and all storage classes
-  All storage objects conform to the same interface
-
-- [templates](./templates)
-
-  Html pages for the routes
-
 - [main.py](./main.py)
 
   Entry point of the application
